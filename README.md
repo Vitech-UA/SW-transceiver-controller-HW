@@ -1,1 +1,1 @@
-# SW-Synthesizer-ESP32-S2-SI5153
+# SW-Synthesizer-STM32F103-SI5153
